@@ -1,1 +1,1 @@
-# S
+# Diffusion course notes
